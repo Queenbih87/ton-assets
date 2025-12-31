@@ -1,4 +1,4 @@
-# TON Assets
+https://github.com/Queenbih87/ton-assets/commit/dae6e4ed6d6cd28c3997676c640babfd443b5a02# TON Assets
 
 This is a list of popular addresses and assets. We are open to pull request but **please read manual in the end of this readme for PR**.
 
